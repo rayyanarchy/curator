@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+.build/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Personal data (Instagram exports and anything extracted from them)
+igexpt-*.zip
+igexpt-*/
+*.zip
+
+# Local build output
+.derived*/
